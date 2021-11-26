@@ -1,0 +1,4 @@
+1. Buat website seperti gambar.
+2. bagian body (konten) menggunakan display:column / flex / grid.
+3. boleh merubah warna web, dengan syarat menggunakan color palette, color palette disertakan dalam folder, ketika selesai menjawab.
+4. text yang dikotakan merah silahkan masukkan/tuliskan nama dan nim didalamnya, terima kasih.
